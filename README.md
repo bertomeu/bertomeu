@@ -3,6 +3,8 @@
 # 💫 About Me:
 <br>A passionate backend from Spain<br><br>Full Stack Software Developer, noted for my ability to identify improvement opportunities and implement effective solutions that optimize processes and increase efficiency, committed to continuous learning and adaptation to new challenges in changing work environments and with experience in team leadership. With knowledge in HTML, CSS, JavaScript, React, Python, SQL and Flask.<br><br><br>🔭 I’m currently working on [PetStar](https://github.com/bertomeu/bertomeu-PetStars)<br>
 
+![GIF](https://res.cloudinary.com/dyvut6idr/image/upload/v1728319929/giphy_1_cfj2lw.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/jcbertomeu) 
